@@ -1,2 +1,2 @@
 # hello-world
-a new resository
+a new respository
